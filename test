@@ -1,0 +1,24 @@
+# Variables
+name = "John Doe"
+age = 30
+
+# Conditional statements
+if age >= 18:
+    eligibility = "eligible"
+else:
+    eligibility = "not eligible"
+
+# Lists
+fruits = ["apple", "banana", "cherry"]
+
+# Loops
+for fruit in fruits:
+    print(fruit)
+
+# Functions
+def greet(name):
+    print("Hello, " + name)
+
+# Call the function
+greet(name)
+
